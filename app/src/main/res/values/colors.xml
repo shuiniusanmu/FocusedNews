@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="news_date_tag">#BDBDBD</color>
+    <color name="news_title">#424242</color>
+    <color name="country_circle_US">#3F51B5</color>
+    <color name="country_circle_CN">#D50000</color>
+    <color name="country_circle_UK">#2E7D32</color>
+    <color name="country_circle_CA">#CDDC39</color>
+
+    <color name="textColorOtherSection">#B4BAC0</color>
+    <color name="textColorNewsTitle">#2B3D4D</color>
+</resources>
